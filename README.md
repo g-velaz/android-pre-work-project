@@ -4,7 +4,7 @@
 This mobile application presents the user with a space to input letters, emojis, and other characters, a string that says "Hello from Gemaris!" and 3 buttons that can alter the appearance of the text, text color, and background color. Tapping these buttons will change their respective counterparts; tapping the background will reset the app to its default appearance.
 
 ### App Walk-though
-<img src="blob:https://imgur.com/5c659ee2-6e3e-4053-aeae-364c4d6110d3" width=200><br>
+<img src="https://imgur.com/doZOzez.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
